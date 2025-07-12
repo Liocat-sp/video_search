@@ -10,4 +10,4 @@ streamlit run ui.py --server.maxUploadSize 20000
 local postgres setup will will be required with the pgvector plugin.
 
 
-[Working Demo](./demo/demo.mov)
+[Working Demo](./demo/demo.mp4)
